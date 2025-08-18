@@ -26,7 +26,9 @@ O app é simples: ao clicar em um botão, ele sorteia um número **aleatório de
 ---
 
 ## 📸 Demonstração
-> *(Aqui você pode adicionar prints da tela do app futuramente)*  
+
+![App rodando](images/print-app.png)
+ 
 
 ---
 
