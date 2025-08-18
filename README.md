@@ -27,7 +27,7 @@ O app é simples: ao clicar em um botão, ele sorteia um número **aleatório de
 
 ## 📸 Demonstração
 
-![App rodando](images/print-app.png)
+![App rodando](file:///C:/Users/matbo/Pictures/print-app.png.PNG)
  
 
 ---
