@@ -27,7 +27,7 @@ O app é simples: ao clicar em um botão, ele sorteia um número **aleatório de
 
 ## 📸 Demonstração
 
-![Aplicativo rodando](images/Capturar.PNG)
+![Aplicativo rodando](images/print-app.PNG)
  
 
 ---
